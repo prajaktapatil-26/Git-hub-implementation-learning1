@@ -1,0 +1,1 @@
+print("Live long and Prosper")
