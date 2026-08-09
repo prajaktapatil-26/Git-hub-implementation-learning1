@@ -1,4 +1,3 @@
 print("Hello World")
-print("Hello Universe")
-print("Hello All")
-print("Changed and edited by new one")
+print("Hello Solar System")
+print("Changed and edited by new two")
